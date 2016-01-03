@@ -1,0 +1,4 @@
+  3  16  81 test1.txt
+  9   6  45 test2.txt
+ 14   7  74 test3.txt
+ 26  29 200 total
